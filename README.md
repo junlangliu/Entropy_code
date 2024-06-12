@@ -1,1 +1,3 @@
-# Sustainable protein waste regeneration via entropy-driven conformational change
+# Entropy-driven Denaturation for Sustainable Regeneration of Protein Waste
+
+
