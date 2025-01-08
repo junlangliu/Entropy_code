@@ -1,6 +1,6 @@
 # Protein upcycling through rapid gel-solid transition
 
-The is the instruction for anyone who would like to conduct the same metadynamics simulation as used in this manuscript to explore protein folding energy landscape.
+The is the instruction for anyone who would like to conduct the same metadynamics simulation as used in this manuscript to explore protein folding energy landscape. (https://www.biorxiv.org/content/10.1101/2024.06.12.598657v2)
 
 1. Systen requirement
 
