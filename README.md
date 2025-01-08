@@ -26,11 +26,12 @@ The is the instruction for anyone who would like to conduct the same metadynamic
 
 4. Instructions for use
 
-   The following 3 points should be taken great care of if you are working on your own proteins.
+   The following 4 points should be taken great care of if you are working on your own proteins.
 
-   1) Diverse initial configurations with correct format for NAMD;
-   2) Correct choice of metadynamics parameters (which depend on proteins and collective variables);
-   3) Convergence check;
+   1) Diverse initial configurations with correct format for NAMD (Easy);
+   2) Selection of collective variables (It's arts but science :) );
+   3) Selection of metadynamics parameters (Depend on proteins and collective variables, much easier that point 2);
+   4) Convergence check (Very important!!! Never report your results before this step. We recommend our criteria.);
 
 
 
