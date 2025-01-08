@@ -22,7 +22,7 @@ The is the instruction for anyone who would like to conduct the same metadynamic
 
    prod.conf would generate the free energy file, which you can plot versus the collective variables to obtain the free energy landscapes as shown in this manuscript.
 
-   The run time depends on how many steps you set for the simulations. Convergence checking is necessary if you want to obtain any reliable results. We don't suggest run this simulation on any "normal" desktop computer. With 20 CPUs, it took around 3 weeks to finish a 2-3ms simulation.
+   The run time depends on how many steps you set for the simulations. Convergence checking is necessary if you want to obtain any reliable results. We don't suggest run this simulation on any "normal" desktop computer. With 20 CPUs, it took around 2 weeks to finish a 2-3us simulation, which are normally converged.
 
 4. Instructions for use
 
